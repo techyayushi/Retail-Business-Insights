@@ -56,15 +56,12 @@ Retail-Business-Insights/
 │   ├── raw/
 │   └── cleaned/
 │
-├── python/
-│   ├── generate_retail_data.py
-│   ├── data_profiling.py
-│   └── data_cleaning.py
+├── Python/
 │
 ├── analysis/
 │   └── retail_analysis.py
 │
-├── sql/
+├── SQL/
 │   └── retail_analysis.sql
 │
 ├── Dashboard Images/
@@ -101,6 +98,8 @@ The executive dashboard provides a high-level view of overall business performan
 
 ### Dashboard Preview
 
+![Executive Overview](Dashboard%20Images/pic%201.png)
+
 ---
 
 ## 2️⃣ Sales Analysis
@@ -116,6 +115,8 @@ This page focuses on understanding sales performance across products, categories
 * Top 10 Cities
 
 ### Dashboard Preview
+
+![Sales Analysis](Dashboard%20Images/pic%202.png)
 
 ---
 
@@ -133,6 +134,8 @@ This page focuses on profitability and business trends.
 
 ### Dashboard Preview
 
+![Profit & Trend Analysis](Dashboard%20Images/pic%203.png)
+
 ---
 
 ## 4️⃣ Customer & Product Insights
@@ -148,6 +151,8 @@ This page provides deeper insights into customer and product performance.
 * Profit by Category
 
 ### Dashboard Preview
+
+![Customer & Product Insights](Dashboard%20Images/pic%204.png)
 
 ---
 
@@ -226,8 +231,9 @@ Possible future enhancements include:
 
 ---
 
-### ⭐ Project Highlights
+## ⭐ Project Highlights
 
 **Python → SQL → Power BI → Business Insights**
 
 This project demonstrates an end-to-end approach to transforming raw data into **actionable business insights**.
+
